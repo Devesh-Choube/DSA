@@ -1,5 +1,5 @@
-
-    /*
+package Recursion.Easy;
+/*
      * LeetCode 1922 - Count Good Numbers
      *
      * Approach:

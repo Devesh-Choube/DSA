@@ -1,5 +1,6 @@
-import java.util.Stack;
+package Recursion.Easy;
 
+import java.util.Stack;
 /*
 Problem: Reverse a Stack
 Platform: TUF
